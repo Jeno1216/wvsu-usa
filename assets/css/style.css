@@ -481,7 +481,7 @@ section {
 }
 @media  (max-width: 500px) {
   .about{
-    padding: 30px;
+    padding: 10px;
   }}
 
   /* Carousel*/
