@@ -343,12 +343,14 @@ h6 {
 }
 #hero .campaign-button {
   border: none;
-  padding: 5px 10px;
-  border-radius: 10px;
+  border-radius: 4px;
+  padding: 8px 25px;
   font-size: 14px;
   background-color: #12b2f9;
   color: white;
-  transition: .5s;
+  transition: .3s;
+  font-weight: 600;
+
 }
 
 #hero .campaign-button:hover {
